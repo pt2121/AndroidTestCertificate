@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 
-import com.test.certificate.ApCertTester;
 //import com.test.certificate.CertVerifier;
 import com.test.certificate.R;
+import com.test.certificate.test.ApCertTester;
 // Testing how to use x509certificate in Android: verifying certificate, getting certificate info. Basically, everything is the same as in Java
 public class MainActivity extends Activity {
 	
